@@ -1,3 +1,6 @@
+import lugares.*
+import vehiculos.*
+
 object luke {
   var recuerdoActual = mate
   var vehiculo = alambiqueVeloz
